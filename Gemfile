@@ -1,7 +1,7 @@
 ruby '3.0.1'
 source "https://rubygems.org"
 
-gem 'activerecord', '5.2.3'
+gem 'activerecord', '6.1.7.1'
 gem 'bcrypt'
 gem 'dotenv'
 gem 'puma'
